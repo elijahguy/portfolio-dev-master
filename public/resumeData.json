@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Elijah Guy ",
+    "occupation": "Full Stack Developer",
+    "description": "react, react, and more react! ",
+    "image": "profilepic.jpg",
+    "bio": "Hello Im Elijah Guy, i've been a Full-Stack Developer for a about a year now and i absolutely love it , ive always had a passion for tech as a kid i would love to take old radios apart just to see how they work and try and put them together , in my spare time i am also a street photographer, it gives me a chance to break away from day to day stress and also meet and take pics of some really great people. my life long dream would be to bring my passion of Coding and photography and travel the world. ",
+    "contactmessage": "Don't be shy give me a shout!",
+    "email": "elijahthedev@gmail.com",
+    "phone": "347-658-4308",
+    "address": {
+      "street": "106 North Grove st",
+      "city": "East Orange",
+      "state": "New Jersey",
+      "zip": "07017"
+    },
+    "resumedownload": " https://docs.google.com/document/d/1q7AF2KXrKCIzN1xv758YjYD5rw8apon8g_QayjLOBuM/edit ",
+    "social": [
+      {
+      },
+      {
+       
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/elijah-guy/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/elijahguy",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Perscholas",
+        "area of study": "Full Stack Engineering",
+        "graduated": "October 2021",
+        "description": "Built multiple projects both front end and back end"
+      }
+    ],
+    "work": [
+      {
+        "company": "Facebook",
+        "title": "GSOC / SCR Analyst",
+        "years": "July 2018- October 2021",
+        "description": "Responsible for reviewing, tracking and remediating potential security incidents and compliance issues across the enterprise over-seeing multiple locations such as London,California ,Houston,Seattle,Australia ,Atlanta."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Chat Application",
+        "category": "",
+        "image": "chat-app.png",
+        "url": "https://chat-app-v2.com/"
+      },
+      {
+        "title": "Covid-19 App",
+        "category": "",
+        "image": "Covid-19.png",
+        "url": "https://covid-app-tracker.netlify.app/"
+      },
+      {
+        "title": "To-Do-list",
+        "category": "",
+        "image": "to-do-list.png",
+        "url": "http://elijah-to-do-list.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    
+    "testimonials": [
+      {
+        "text": "Ive had the pleasure of working with Elijah on numerous occasions, each one better than the last, he is charming , driven , with a consistenly positive attitude. Elijah is amazing with people he brings a new and fresh perspective to every project , but also can take a back seat and help team members excel. ",
+        "user": "Rashaunda Guy-Callum  Dotmixy"
+      }
+      
+    ]
+  }
+}
